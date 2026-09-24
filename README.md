@@ -7,6 +7,8 @@ An exploratory data visualization project built using **Tableau** to evaluate to
 
 ## 📊 Live Interactive Tableau Dashboard🔗
 (https://public.tableau.com/app/profile/vishwanath.joshi/viz/Iplanalysis2026data/Tossdecissionimpactonthematch?publish=yes)
+(https://public.tableau.com/app/profile/vishwanath.joshi/viz/Iplanalysis2026data2/Avgbattingscoreintheipl2026venues?publish=yes)
+(https://public.tableau.com/app/profile/vishwanath.joshi/viz/Iplanalysis2026data3/totalscoreinvenuesfor1stand2ndinnings?publish=yes)
 ---
 
 ## 📸 Dashboard Visualizations
